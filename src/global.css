@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+textarea,
+textarea:focus,
+textarea:active {
+  border: 0;
+  background: #f4f4f4;
+  box-shadow: none;
+  outline: 0;
+}
+
+::-moz-selection {
+  background: #fff9c4;
+}
+
+::selection {
+  background: #fff9c4;
+}
+
+::-moz-selection {
+  background: #fff9c4;
+}
+
+.markdown, .render {
+  height: calc(100vh - 40px);
+}

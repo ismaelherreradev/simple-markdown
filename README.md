@@ -1,7 +1,3 @@
-## Indigo Markdown Editor Challenge
-
-Welcome to the [Indigo Ag](https://www.indigoag.com/about) React Code challenge.
-
 ## Goal
 
 Our goal is to build a minimal Markdown Editor that implements a small subset of the
@@ -35,8 +31,3 @@ This is a regular stripped down [Create React App](https://create-react-app.dev)
 
 - Run `npm start` to start the app in development mode on [http://localhost:3000](http://localhost:3000).
 - Run `npm test` to run tests, [React Testing Library](https://testing-library.com/docs/react-testing-library/) is already set up.
-
-## Submission
-
-To submit your solution please create a **private** repository on GitHub, upload your code, and
-invite [@mrloh](https://github.com/mrloh/) as a collaborator.
